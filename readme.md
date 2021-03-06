@@ -1,3 +1,7 @@
+![cli-alerts screenshoot](./.github/image.png)
+
+# cli-alerts
+
 ## API documentation
 
 ### alerts(options)
