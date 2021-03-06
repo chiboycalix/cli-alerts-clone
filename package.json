@@ -1,31 +1,31 @@
 {
-	"name": "y",
-	"version": "2.0.0",
-	"description": "Cross platform cli with colors & colored symbols for success, info, warning, errors. Works on macOs, Linux, and Windows",
-	"main": "index.js",
-	"repository": "chiboycalix/cli-alerts-rebuild",
-	"author": {
-		"name": "Igwe Chinonso",
-		"email": "igwechinonso77@gmail.com",
-		"url": "https://twitter.com/thorsgardian_"
-	},
-	"files": [
-		"index.js"
-	],
-	"keywords": [
-		"cli-alerts-rebuild",
-		"Igwe Chinonso"
-	],
-	"dependencies": {
-		"chalk": "^4.1.0",
-		"log-symbols": "^4.0.0"
-	},
-	"devDependencies": {
-		"prettier": "^2.2.1"
-	},
-	"scripts": {
-		"test": "node test.js",
-		"format": "prettier --write \"./**/*.{js,json}\""
-	},
-	"license": "MIT"
+  "name": "cli-alerts-clone",
+  "version": "2.0.0",
+  "description": "Cross platform cli with colors & colored symbols for success, info, warning, errors. Works on macOs, Linux, and Windows",
+  "main": "index.js",
+  "repository": "chiboycalix/cli-alerts-rebuild",
+  "author": {
+    "name": "Igwe Chinonso",
+    "email": "igwechinonso77@gmail.com",
+    "url": "https://twitter.com/thorsgardian_"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "cli-alerts-rebuild",
+    "Igwe Chinonso"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "log-symbols": "^4.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "format": "prettier --write \"./**/*.{js,json}\""
+  },
+  "license": "MIT"
 }
